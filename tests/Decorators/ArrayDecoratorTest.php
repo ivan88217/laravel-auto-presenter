@@ -63,5 +63,7 @@ class ArrayDecoratorTest extends AbstractTestCase
         $collection->shouldReceive('put')->with(2, 'something');
 
         $this->decorator->decorate($collection);
+
+        $this->assertTrue(true);
     }
 }
