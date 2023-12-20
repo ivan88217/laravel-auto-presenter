@@ -1,5 +1,5 @@
 {
-    "name": "mccool/laravel-auto-presenter",
+    "name": "ivan88217/laravel-auto-presenter",
     "description": "A system for auto-decorating models with presenter objects.",
     "keywords": ["lpm", "laravel", "eloquent", "presenter"],
     "license": "MIT",
