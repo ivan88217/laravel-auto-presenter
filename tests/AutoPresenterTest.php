@@ -31,7 +31,7 @@ class AutoPresenterTest extends AbstractTestCase
 {
     private $autoPresenter;
 
-    protected function getEnvironmentSetUp($app)
+    protected function getEnvironmentSetUp($app): void
     {
         parent::getEnvironmentSetUp($app);
 

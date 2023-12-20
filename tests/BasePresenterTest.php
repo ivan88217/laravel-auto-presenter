@@ -23,7 +23,7 @@ class BasePresenterTest extends AbstractTestCase
     private $decoratedAtom;
     private $presenter;
 
-    protected function getEnvironmentSetUp($app)
+    protected function getEnvironmentSetUp($app): void
     {
         parent::getEnvironmentSetUp($app);
 
